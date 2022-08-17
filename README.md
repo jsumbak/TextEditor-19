@@ -13,7 +13,7 @@ This is a text editor app that is a single page application which follows best p
 - HTML, CSS & JavaScript
 
 # Application Link
-
+https://glacial-badlands-62416.herokuapp.com
 
 # Screenshot
 [!jate](./client/src/images/jate1.png)
