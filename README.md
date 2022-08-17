@@ -16,5 +16,5 @@ This is a text editor app that is a single page application which follows best p
 
 
 # Screenshot
-[!jate](./Develop/client/src/images/jate1.png)
-[!jate](./Develop/client/src/images/jate2.png)
+[!jate](./client/src/images/jate1.png)
+[!jate](./client/src/images/jate2.png)
